@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub flow
+I'm a MSc student studying environmental and soil science with a focus on land conversion.
